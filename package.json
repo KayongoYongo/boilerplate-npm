@@ -1,8 +1,13 @@
-{	
-	"author": "Kayongo Samuel",
+{
+	"author":"Kayongo Samuel",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "Kayongo Samuel",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
